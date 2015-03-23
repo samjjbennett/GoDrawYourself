@@ -58,7 +58,7 @@ public class ImagePicker {
 
 
         final Dialog bitmapDialog = new Dialog(activity);
-        bitmapDialog.setTitle("Brush size:");
+        bitmapDialog.setTitle("Select Image:");
         bitmapDialog.setContentView(R.layout.image_chooser);
         //listen for clicks on size buttons
         ImageButton leeBtn = (ImageButton)bitmapDialog.findViewById(R.id.lee);

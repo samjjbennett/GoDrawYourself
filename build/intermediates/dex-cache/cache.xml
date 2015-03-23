@@ -2,32 +2,32 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\Jason\Documents\GitHub\GoDrawYourself\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Jason\Documents\GitHub\GoDrawYourself\app\build\intermediates\pre-dexed\debug\classes-30669b4a6ab65ad9ef30d404adcdd0f8eec53f9d.jar" />
+    </item>
+    <item
         jar="C:\Users\Jason\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
-        <dex dex="C:\Users\Jason\Desktop\GoDrawYourself-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-a6e8f27225d64b001b1f52f0ab6e6ba324fab192.jar" />
+        <dex dex="C:\Users\Jason\Documents\GitHub\GoDrawYourself\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-a6e8f27225d64b001b1f52f0ab6e6ba324fab192.jar" />
     </item>
     <item
-        jar="C:\Users\Jason\Desktop\GoDrawYourself-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jar="C:\Users\Jason\Documents\GitHub\GoDrawYourself\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
-        <dex dex="C:\Users\Jason\Desktop\GoDrawYourself-master\app\build\intermediates\pre-dexed\debug\classes-345313974c10a7465cbb136f41d92c459bfe07d6.jar" />
+        <dex dex="C:\Users\Jason\Documents\GitHub\GoDrawYourself\app\build\intermediates\pre-dexed\debug\classes-d2a675ff0502f4195afc4bc2bc8d23a3bce9f053.jar" />
     </item>
     <item
-        jar="C:\Users\Jason\Desktop\GoDrawYourself-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
-        jumboMode="false"
-        revision="21.1.2"
-        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
-        <dex dex="C:\Users\Jason\Desktop\GoDrawYourself-master\app\build\intermediates\pre-dexed\debug\classes-8fe14d127c03c88ad99bc8545323b575e4dcb05d.jar" />
-    </item>
-    <item
-        jar="C:\Users\Jason\Desktop\GoDrawYourself-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jar="C:\Users\Jason\Documents\GitHub\GoDrawYourself\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
         jumboMode="false"
         revision="21.1.2"
         sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
-        <dex dex="C:\Users\Jason\Desktop\GoDrawYourself-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-66298904428dd0ceb788790f5a5ed5276a067106.jar" />
+        <dex dex="C:\Users\Jason\Documents\GitHub\GoDrawYourself\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-6ef49920b40a77010e23e56cc6683776a2f704b0.jar" />
     </item>
 
 </items>
